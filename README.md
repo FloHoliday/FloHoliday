@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{FloHoliday}/count.svg)
+
 
 - 👋 Hi, I’m @FloHoliday
 - 👀 I’m interested in datascience, surfing, ski touring, art, 
